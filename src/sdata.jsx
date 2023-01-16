@@ -52,12 +52,6 @@ const Sdata=[
         imgsrc:"https://akm-img-a-in.tosshub.com/businesstoday/images/story/202110/squid-game-sixteen_nine.jpg?size=948:533",
         title:"A Netflix Original Series",
         links:"https://www.netflix.com/in/title/81040344?source=35",
-    },
-       {
-        sname:"Wednesday",
-        imgsrc:"https://images.thequint.com/thequint%2F2022-12%2F4dc68be4-e7da-47e1-ba9f-b1bb56408aaa%2Fp23063502_b_h8_ab.jpg?auto=format%2Ccompress&fmt=webp&width=720",
-        title:"A Netflix Original Series",
-        links:"https://www.netflix.com/in/title/81231974?source=35",
     }
 ];
 export default Sdata;
